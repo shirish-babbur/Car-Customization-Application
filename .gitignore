@@ -1,0 +1,13 @@
+.~
+gradlew.bat
+gradlew
+gradle
+
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
+
+
+*.class
